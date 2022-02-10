@@ -6,11 +6,9 @@ Architect this app using
 ## Provider
 
 ## Following Requirements
-!.I am Using  https://picsum.photos/v2/list?page=2&limit=100 to get a list of photos for GridView.
-Where page =1,and limit value initially 8 for viewing 8 photo. then 8+8=16,16+8=24... for infinite scroll on the gallery screen
-2. The user can tap the photo for view.
-3. The user can see a full-screen view/Zoom in,Zoom out of the photo by double click.
-4. The user has an infinite scroll on the gallery screen.
+I am Using  https://picsum.photos/v2/list?page=2&limit=100 to get a list of photos for GridView.
+Where page =1,and limit value initially 8 for viewing 8 photo. then 8+8=16,16+8=24... for infinite scroll on the gallery screen.
+A user can tap the photo for view, can see a full-screen view/Zoom in,Zoom out of the photo by double click ,and user has an infinite scroll on the gallery screen.
 
 ## App Screenshot
 
